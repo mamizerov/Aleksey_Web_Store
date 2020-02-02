@@ -5,7 +5,7 @@ using System.Text;
 namespace WebStore.DomainNew.FIlters
 {
     /// <summary>
-    /// Класс для фильтрации товаров
+    /// Класс для фильтрации товаров на сайте
     /// </summary>
     public class ProductFilter
     {
